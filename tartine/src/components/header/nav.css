@@ -1,0 +1,7 @@
+nav {
+    border-bottom: 5px solid rgb(167, 255, 167);
+}
+div a {
+    text-decoration: none;
+    border: 2px rgb(167, 255, 167)solid;
+}
